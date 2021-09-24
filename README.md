@@ -1,2 +1,2 @@
 # nChipper
-nChipper encription
+nChipper encryption example for nChipper HSM
